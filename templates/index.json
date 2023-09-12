@@ -26,6 +26,7 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 40,
         "image_height": "large",
@@ -39,37 +40,170 @@
         "show_text_below": false
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "100c3887-b8ff-4052-9afb-99b8c0421f30": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20941185515839__100c3887-b8ff-4052-9afb-99b8c0421f30-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>What Makes Us Different?<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--20941185515839__100c3887-b8ff-4052-9afb-99b8c0421f30-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When most people hear the word \"electrolytes,\" they picture giant bottles of popular sports drinks. The truth is, most of these so-called \"electrolytes\" drinks are anything but...<\/p><p> In fact, they often contain <strong>35x more sugar than electrolytes! <\/strong>Can you believe it?! <\/p><p>Clovis Essential Electrolytes contain more than <strong>10x the electrolytes<\/strong> found in leading sports drinks and <strong>zero sugar!<\/strong><\/p><p> In other words, you're getting all of the good stuff and none of the junk!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20941185515839__100c3887-b8ff-4052-9afb-99b8c0421f30-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Start Shopping",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20941185515839__100c3887-b8ff-4052-9afb-99b8c0421f30-heading-1",
+        "template--20941185515839__100c3887-b8ff-4052-9afb-99b8c0421f30-text-1",
+        "template--20941185515839__100c3887-b8ff-4052-9afb-99b8c0421f30-button-1"
+      ],
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
+        "button__color": "#000000",
+        "headingColor": "#000000",
+        "textColor": "#000000",
+        "image": "shopify:\/\/shop_images\/what-makes-us-difference-image_2x_f1f4a727-0316-4dcb-91ea-eaa824c7e241.png",
+        "pageWidth": true,
+        "bgColor": "#f5f5f5",
+        "triangleIcon": false,
+        "imagePadding": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1fa0a452-5b8d-411c-bb1f-cc544679a435": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20925976543551__1fa0a452-5b8d-411c-bb1f-cc544679a435-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Why Are Electrolytes So Important?<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--20925976543551__1fa0a452-5b8d-411c-bb1f-cc544679a435-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Electrolytes are minerals that carry an electric charge. These are required to keep your body functioning as it should.<\/p><p>Electrolytes are crucial to your nervous system and regulate everything from muscle contractions to organ functions.<\/p><p> The different electrolytes interact with each other to regulate virtually all functions of the cells in your tissues, nerves, and muscles.<\/p><p>Clovis Essential Electrolytes will go to work in your body to support nerve and muscle function, hydrate your body, balance blood pressure, and help rebuild and repair tissues<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20925976543551__1fa0a452-5b8d-411c-bb1f-cc544679a435-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20925976543551__1fa0a452-5b8d-411c-bb1f-cc544679a435-heading-1",
+        "template--20925976543551__1fa0a452-5b8d-411c-bb1f-cc544679a435-text-1",
+        "template--20925976543551__1fa0a452-5b8d-411c-bb1f-cc544679a435-button-1"
+      ],
+      "settings": {
+        "button__color": "",
+        "headingColor": "#ffffff",
+        "textColor": "#ffffff",
+        "image": "shopify:\/\/shop_images\/understanding-electrolytes-image_2x_8782a627-54b3-4673-9024-2610103f8e2b.png",
+        "pageWidth": true,
+        "bgColor": "#1d1d1f",
+        "triangleIcon": true,
+        "imagePadding": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "03fa61d6-3fe0-476d-aef8-43b1ba529996": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20925976543551__03fa61d6-3fe0-476d-aef8-43b1ba529996-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--20925976543551__03fa61d6-3fe0-476d-aef8-43b1ba529996-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20925976543551__03fa61d6-3fe0-476d-aef8-43b1ba529996-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20925976543551__03fa61d6-3fe0-476d-aef8-43b1ba529996-heading-1",
+        "template--20925976543551__03fa61d6-3fe0-476d-aef8-43b1ba529996-text-1",
+        "template--20925976543551__03fa61d6-3fe0-476d-aef8-43b1ba529996-button-1"
+      ],
+      "settings": {
+        "button__color": "",
+        "headingColor": "",
+        "textColor": "",
+        "pageWidth": false,
+        "bgColor": "",
+        "triangleIcon": false,
+        "imagePadding": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "100c3887-b8ff-4052-9afb-99b8c0421f30",
+    "1fa0a452-5b8d-411c-bb1f-cc544679a435",
+    "03fa61d6-3fe0-476d-aef8-43b1ba529996"
   ]
 }
